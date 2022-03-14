@@ -7,4 +7,3 @@ sum_FX=sum(FX);
 Arithmetic_mean=sum_FX/sum_F
 
 end
-
