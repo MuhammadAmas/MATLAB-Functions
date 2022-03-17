@@ -18,4 +18,3 @@ C=U(1)-L(1);
 median=l+((average-cfp)/f)*C;
 
 end
-

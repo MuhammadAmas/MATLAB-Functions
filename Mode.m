@@ -12,4 +12,3 @@ h=h+1;
 Mode = l+(Fm-F1)/(2*Fm-F1-F2)*h
 
 end
-
