@@ -9,4 +9,3 @@ Xi=min(L);          %Minimum Rage
 Range= Xm-Xi;
    
 end
-
